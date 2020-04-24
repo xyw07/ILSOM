@@ -1,6 +1,7 @@
 # ILSOM
 ## About
-This repository contains a the universal portion of the work done in the Huang group.
+This repository contains the Ionic Liquid portion of the work done in the Huang group.
+python script for running SOM in bash or in supercomputer.
 
 ## Initial Steps
 - Have python on PC either via Miniconda or Anaconda
