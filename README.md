@@ -1,4 +1,4 @@
-# ILSOM
+# ILSOM(Ionic Liquid SOM)
 ## About
 This repository contains the Ionic Liquid portion of the work done in the Huang group.
 python script for running SOM in bash or in supercomputer.
